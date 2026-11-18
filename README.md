@@ -23,7 +23,6 @@ Llevo casi 5 años construyendo software: APIs, sistemas empresariales y aplicac
 | Proyecto | Qué es | Hecho con |
 | --- | --- | --- |
 | [Pulse-Wave](https://github.com/ibrarmz/Pulse-Wave) | Visualizador de audio en tiempo real para la terminal de Windows (WASAPI loopback), inspirado en cava | C# · .NET 8 |
-| [template-api-express-ts](https://github.com/ibrarmz/template-api-express-ts) | Plantilla para APIs REST con logging (Winston) y protección por API key | TypeScript · Express |
 | [missing](https://github.com/ibrarmz/missing) | Una experiencia emocional corta | Godot 4 |
 | [dnd-text-combat](https://github.com/ibrarmz/dnd-text-combat) | Combate por texto estilo D&D, con estética retro | TypeScript |
 | [Godot-2D-Platformer](https://github.com/ibrarmz/Godot-2D-Platformer) | Plataformero 2D | Godot |
